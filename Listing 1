@@ -33,21 +33,20 @@ h3 {
         <h1>Sarah Gothard</h1>
         <h2>Freshman in Greenville, South Carolina</h2>
         
-         <p>I am a freshman at Bob Jones University studying computer science with a minor in 
-            mathematics. I work for the Computer Science department as a lab monitor.</p>
+         <p>I am a freshman at Bob Jones University studying Business Administration and Ministry and Leadership. I work at Chick-fil-A in Taylors, SC, and Chick-fil-A in Stuart, FL.</p>
          <p>
-            I attend Cornerstone Baptist Church in Greer SC. My favorite website is  
+            I attend Gateway Baptist in Travelers Rest, SC, and Beacon Baptist Church in Jupiter, FL. My favorite website is  
             <a href="https://mobilehymns.org/">here</a>, and you can email me  
-            <a href="mailto:sgothard@bju.edu">here</a>.
+            <a href="mailto:lbuch180@students.bju.edu">here</a>.
          </p> 
          <p>
-            I enjoy listening to podcasts and having deep conversations.
+            I enjoy listening to Classical music and having deep conversations.
          </p>
         <h3>EDUCATION</h3>
-        Computer Science<br />
+        Business Administration / Ministry and Leadership<br />
         Bob Jones University<br />
         Example image:
-        <img src="https://cs.bju.edu/media/bju-math-division/bju-computer-science/site-assets/images/cs-logo-main.png" />
+        <img src="C:\Users\linco\OneDrive\Desktop\finalbasillogo_White.png" />
     </div>
 </body>
 </html>
